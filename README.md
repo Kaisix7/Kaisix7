@@ -51,10 +51,19 @@ karina.show_tech_stack()
 
 **Output:**
 ```text
-> I'm a Software Engineering Student focused on Backend Development.
-> I build REST APIs, work with authentication and databases,
-> and develop applications that solve real-world problems.
-> Currently improving my skills in backend architecture.
+> I'm a Software Engineering Student focused on Backend Development, Data Science.
+> I build REST APIs, develop backend systems,
+> and work with authentication, databases, and server-side logic.
+> I also explore data analysis and machine learning using Python.
+> Currently improving my skills in backend architecture,
+> database design, and scalable application development.
+>
+> My Tech Stack:
+> • Python       • JavaScript    • Node.js
+> • Express.js   • Django        • REST APIs
+> • SQL          • PostgreSQL    • SQLite
+> • NumPy        • Pandas        • Scikit-learn
+> • Git          • GitHub        • Docker
 ```
 
 <br>
