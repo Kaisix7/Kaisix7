@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/mecca-banner.jpg" alt="Aesthetic Banner" width="100%">
+  <img src="./mecca-banner.jpg" alt="Aesthetic Banner" width="100%">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Karina;Backend+Developer+%26+Data+Science&size=25&center=true&width=500&height=50&color=ffffff" alt="Typing SVG" />
 </div>
@@ -49,5 +49,5 @@ development, and software engineering.
 <br>
 
 <div align="center">
-  <img src="./assets/mecca-kaaba.jpg" alt="Kaaba Aesthetics" width="50%">
+  <img src="./mecca-kaaba.jpg" alt="Kaaba Aesthetics" width="50%">
 </div>
