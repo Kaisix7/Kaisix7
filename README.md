@@ -10,17 +10,43 @@
 class Karina:
     def __init__(self):
         self.role = "Software Engineering Student"
-        self.focus = "Backend Development"
-        self.tech_stack = ["Python", "Django", "REST APIs"]
-        
+        self.focus = ["Backend Development", "Data Science"]
+
+        self.tech_stack = [
+            "Python",
+            "JavaScript",
+            "Node.js",
+            "Express.js",
+            "Django",
+            "REST APIs",
+            "SQL",
+            "PostgreSQL",
+            "SQLite",
+            "NumPy",
+            "Pandas",
+            "Scikit-learn",
+            "Git",
+            "GitHub",
+            "Docker"
+        ]
+
     def describe(self):
-        print(f"I'm a {self.role} focused on {self.focus}.")
-        print("I build REST APIs, work with authentication and databases,")
-        print("and develop applications that solve real-world problems.")
-        print("Currently improving my skills in backend architecture.")
+        print(f"I'm a {self.role} focused on {', '.join(self.focus)}.")
+        print("I build REST APIs, develop backend systems,")
+        print("and work with authentication, databases, and server-side logic.")
+        print("I also explore data analysis and machine learning using Python.")
+        print("Currently improving my skills in backend architecture,")
+        print("database design, and scalable application development.")
+
+    def show_tech_stack(self):
+        print("\nMy Tech Stack:")
+        for tech in self.tech_stack:
+            print(f"• {tech}")
+
 
 karina = Karina()
 karina.describe()
+karina.show_tech_stack()
 ```
 
 **Output:**
