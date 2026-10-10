@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./mecca-banner.jpg" alt="Aesthetic Banner" width="100%">
-  <br><br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Karina;Backend+Developer+%26+Data+Science&size=25&center=true&width=500&height=50&color=ffffff" alt="Typing SVG" />
 </div>
 
@@ -8,16 +6,30 @@
 
 ## About Me
 
-I'm a Software Engineering student focused on backend development
-with Python and Django.
+```python
+class Karina:
+    def __init__(self):
+        self.role = "Software Engineering Student"
+        self.focus = "Backend Development"
+        self.tech_stack = ["Python", "Django", "REST APIs"]
+        
+    def describe(self):
+        print(f"I'm a {self.role} focused on {self.focus}.")
+        print("I build REST APIs, work with authentication and databases,")
+        print("and develop applications that solve real-world problems.")
+        print("Currently improving my skills in backend architecture.")
 
-I build REST APIs, work with authentication and databases, and
-develop applications that solve real-world problems.
+karina = Karina()
+karina.describe()
+```
 
-Currently improving my skills in backend architecture, API
-development, and software engineering.
-
-**Focus:** Backend Development · Python · Django · REST APIs
+**Output:**
+```text
+> I'm a Software Engineering Student focused on Backend Development.
+> I build REST APIs, work with authentication and databases,
+> and develop applications that solve real-world problems.
+> Currently improving my skills in backend architecture.
+```
 
 <br>
 
@@ -50,9 +62,6 @@ development, and software engineering.
 
 <br>
 
-### 👾 My ASCII Art
-
 <div align="center">
-  <!-- ЗДЕСЬ БУДЕТ ТВОЕ ФОТО В ВИДЕ ТОЧЕК/СИМВОЛОВ -->
-  <img src="./ascii-photo.png" alt="ASCII Art Photo" width="400">
+  <img src="./mecca-banner.jpg" alt="Aesthetic Mecca" width="100%" style="border-radius: 10px;">
 </div>
