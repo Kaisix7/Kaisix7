@@ -6,8 +6,6 @@
 
 ---
 
-<img align="right" src="./mecca-kaaba.jpg" alt="Kaaba Aesthetics" width="320" style="border-radius: 10px;">
-
 ## About Me
 
 I'm a Software Engineering student focused on backend development
@@ -26,9 +24,9 @@ development, and software engineering.
 ### Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/karina-b-a022311b1x"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kabaeva551869@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://open.spotify.com/user/31fz4n64jnbazrezcoaxuvteo6wu?si=9X1lNAVUT9SiFtXwjLhWFQ&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-111111?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://www.linkedin.com/in/karina-b-a022311b1x"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kabaeva551869@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://open.spotify.com/user/31fz4n64jnbazrezcoaxuvteo6wu?si=9X1lNAVUT9SiFtXwjLhWFQ&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 </p>
 
 <br>
@@ -48,4 +46,13 @@ development, and software engineering.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaisix7&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaisix7&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+### 👾 My ASCII Art
+
+<div align="center">
+  <!-- ЗДЕСЬ БУДЕТ ТВОЕ ФОТО В ВИДЕ ТОЧЕК/СИМВОЛОВ -->
+  <img src="./ascii-photo.png" alt="ASCII Art Photo" width="400">
 </div>
