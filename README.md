@@ -4,9 +4,18 @@
 
 ---
 
-### About Me
+## About Me
 
-I am a passionate Developer (Backend / Full-stack / Data Science) driven by the art of crafting clean code, robust architectures, and exploring cutting-edge technologies.
+I'm a Software Engineering student focused on backend development
+with Python and Django.
+
+I build REST APIs, work with authentication and databases, and
+develop applications that solve real-world problems.
+
+Currently improving my skills in backend architecture, API
+development, and software engineering.
+
+**Focus:** Backend Development · Python · Django · REST APIs
 
 ---
 
