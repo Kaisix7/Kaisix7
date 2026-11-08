@@ -78,6 +78,14 @@ karina.show_tech_stack()
 
 <br>
 
+### Featured Projects
+
+- 📱 [**SWYNEX (PATHWAY Platform)**](https://github.com/Kaisix7/SWYNEX-SubGuard-App-Concept) — Full-stack newcomer orientation mobile platform (Flutter, Django REST, PostgreSQL, Redis, Celery, Docker).
+- 📈 [**Investment Portfolio**](https://github.com/Kaisix7/Investment-Portfolio) — Markowitz modern portfolio theory, GMV optimization, mathematical audit, and CI verification.
+- 🤖 [**GCI-World**](https://github.com/Kaisix7/GCI-World) — Machine learning default risk prediction with domain feature engineering and automated test pipeline.
+
+<br>
+
 ### Languages & tools
 
 <p align="left">
